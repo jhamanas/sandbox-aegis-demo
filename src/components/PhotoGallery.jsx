@@ -90,10 +90,10 @@ export default function PhotoGallery() {
               <button
                 key={f.id}
                 onClick={() => setFilter(f.id)}
-                className={`px-3 py-1.5 text-xs font-heading font-black uppercase border-2 border-black transition-all ${
+                className={`px-3.5 py-1.5 text-xs font-heading font-black uppercase border-2 border-black transition-all cursor-pointer ${
                   filter === f.id
-                    ? 'bg-[#FFDE59] shadow-[3px_3px_0px_#000] translate-x-0.5 translate-y-0.5'
-                    : 'bg-white hover:bg-gray-100 shadow-[3px_3px_0px_#000]'
+                    ? 'bg-[#FFDE59] text-black shadow-[3px_3px_0px_#000] translate-x-0.5 translate-y-0.5 ring-2 ring-black'
+                    : 'bg-white text-black hover:bg-[#FFFBEB] hover:text-black shadow-[3px_3px_0px_#000]'
                 }`}
               >
                 {f.label}

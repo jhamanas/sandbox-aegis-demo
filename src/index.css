@@ -19,6 +19,10 @@
   code, pre, .font-mono {
     font-family: 'JetBrains Mono', monospace;
   }
+
+  button {
+    color: #000000;
+  }
 }
 
 /* Neo-Brutalist Classes matching original sandbox.aegisclub.site */

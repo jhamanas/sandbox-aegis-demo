@@ -15,7 +15,7 @@ export default function App() {
   const [isV3ModalOpen, setIsV3ModalOpen] = useState(false);
 
   return (
-    <div className="min-h-screen bg-[#070A11] text-slate-100 flex flex-col font-sans">
+    <div className="min-h-screen bg-[#FFFBEB] text-black flex flex-col font-sans">
       
       {/* Top Navigation */}
       <Navbar onOpenV3Modal={() => setIsV3ModalOpen(true)} />
