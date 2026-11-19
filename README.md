@@ -1,7 +1,6 @@
 # ⚡ SandBox Website Redesign: Pre-Event to Post-Event Showcase
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-sandbox--aegis--demo.vercel.app-FFDE59?style=for-the-badge&logo=vercel&logoColor=black)](https://sandbox-aegis-demo.vercel.app/)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jhamanas/sandbox-aegis-demo)
 
 A proposal and implementation to transform the official **SandBox** hackathon portal (`sandbox.aegisclub.site`) from an expired **pre-event registration site** into an **always-on, single-scroll post-event showcase and multi-edition archive**—strictly preserving 100% of the club's signature **Neo-Brutalist Cyber-Retro** brand identity.
 
