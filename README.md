@@ -2,8 +2,6 @@
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-sandbox--aegis--demo.vercel.app-FFDE59?style=for-the-badge&logo=vercel&logoColor=black)](https://sandbox-aegis-demo.vercel.app/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jhamanas/sandbox-aegis-demo)
-[![Host Department](https://img.shields.io/badge/Host-Dept._CSE_(Cyber_Security)_DSCE-5CE1E6?style=for-the-badge)](https://www.dsce.edu.in/)
-[![Theme](https://img.shields.io/badge/Design-Neo--Brutalist_Cyber--Retro-FF66C4?style=for-the-badge)](#-visual-identity--theme-preservation)
 
 Official single-scroll post-event website redesign for **SandBox v2.0**, organized by **Aegis Club**, Department of Computer Science & Engineering (Cyber Security), Dayananda Sagar College of Engineering (DSCE), Bengaluru.
 
@@ -16,9 +14,6 @@ This project transitions the pre-event registration portal into an always-on, si
 * **🚀 Live Production Website:** [https://sandbox-aegis-demo.vercel.app/](https://sandbox-aegis-demo.vercel.app/)
 * **📄 Formal Proposal Document (`.docx`):** [`SandBox_PostEvent_Redesign_Proposal.docx`](./SandBox_PostEvent_Redesign_Proposal.docx)
 * **🔗 Original Pre-Event Site:** [https://sandbox.aegisclub.site/#](https://sandbox.aegisclub.site/#)
-* **📜 Selected Participants Directory:** [https://sandbox.aegisclub.site/selected-participants](https://sandbox.aegisclub.site/selected-participants)
-* **💬 Official Aegis Discord Community:** [discord.gg/NkdPRp8RGm](https://discord.gg/NkdPRp8RGm)
-* **📍 Venue:** Dayananda Sagar College of Engineering (DSCE), Shavige Malleshwara Hills, Kumaraswamy Layout, Bengaluru 560078
 
 ---
 

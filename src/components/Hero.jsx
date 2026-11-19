@@ -18,27 +18,13 @@ export default function Hero({ onExploreWinners, onOpenV3Modal }) {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-8 pb-16">
         
         {/* Top Stickers & Badges */}
-        <div className="flex flex-wrap items-center justify-center gap-3 sm:gap-4 mb-8">
+        <div className="flex items-center justify-center mb-8">
           
           <div className="neo-box bg-[#FFDE59] px-4 py-1.5 flex items-center gap-2">
             <span className="w-2.5 h-2.5 rounded-full bg-emerald-500 border border-black animate-ping" />
             <span className="font-heading font-black text-xs sm:text-sm tracking-wider uppercase text-black">
               MAR 7–8, 2026 • MISSION ACCOMPLISHED
             </span>
-          </div>
-
-          <div className="flex items-center gap-2">
-            <span className="font-doodle text-xl sm:text-2xl font-bold text-rose-600 -rotate-3 select-none">
-              Ctrl+F Your Team, Legend 👉
-            </span>
-            <a 
-              href="https://sandbox.aegisclub.site/selected-participants" 
-              target="_blank" 
-              rel="noopener noreferrer"
-              className="neo-button bg-[#5CE1E6] text-black px-3 py-1 text-xs"
-            >
-              Selected Teams List ↗
-            </a>
           </div>
 
         </div>
